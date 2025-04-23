@@ -12,10 +12,10 @@ Included Features
 - Rollover Detection: alert robot rollover event (with IMU gyro data).
 
 ## Documentation
-Please refer to the [QRB ROS Sensor Service](https://quic-qrb-ros.github.io/packages/qrb_ros_sensor_service/index.html) for more documents.
-- [Overview](https://quic-qrb-ros.github.io/packages/qrb_ros_sensor_service/index.html#overview)
-- [Run](https://quic-qrb-ros.github.io/packages/qrb_ros_sensor_service/index.html#run)
-- [Updates](https://quic-qrb-ros.github.io/packages/qrb_ros_sensor_service/index.html#updates)
+Please refer to the [QRB ROS Sensor Service](https://qualcomm-qrb-ros.github.io/packages/qrb_ros_sensor_service/index.html) for more documents.
+- [Overview](https://qualcomm-qrb-ros.github.io/packages/qrb_ros_sensor_service/index.html#overview)
+- [Run](https://qualcomm-qrb-ros.github.io/packages/qrb_ros_sensor_service/index.html#run)
+- [Updates](https://qualcomm-qrb-ros.github.io/packages/qrb_ros_sensor_service/index.html#updates)
 
 ## Contributing
 
@@ -29,7 +29,7 @@ We would love to have you as a part of the QRB ROS community. Whether you are he
 
 * **Peng Wang** - *Initial work* - [penww](https://github.com/penww)
 
-See also the list of [contributors](https://github.com/quic-qrb-ros/qrb_ros_sensor_service/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/qualcomm-qrb-ros/qrb_ros_sensor_service/graphs/contributors) who participated in this project.
 
 
 ## License
